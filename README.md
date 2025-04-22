@@ -28,9 +28,12 @@ Linux Mint XFCE
 Xubuntu
 
 Zorin Lite
-
+##Usage
+```bash
 chmod +x install-macos-style.sh
 ./install-macos-style.sh
+
+```
 🎨 Sozlashdan so‘ng
 Settings > Appearance bo‘limiga kirib:
 
