@@ -51,6 +51,9 @@ Reboot qilish tavsiya etiladi.
 Bu skript sizga kerakli paketlarni yuklaydi va sozlaydi.
 
 👨‍💻 Muallif
+
 Muallif: Gojo developer
+
 Telegram: https://t.me/Gojo_Developer
+
 GitHub:  https://github.com/nodir-dev
