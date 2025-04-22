@@ -2,6 +2,7 @@
 MX Linux (yoki XFCE asosidagi boshqa distributivlar) uchun MacOS Big Sur uslubida to‘liq transformatsiya qiluvchi avtomatlashtirilgan skript!
 
 🧰 Nimalar o‘rnatiladi?
+
 ✅ WhiteSur GTK Theme
 
 ✅ WhiteSur Icon Pack
