@@ -29,6 +29,23 @@ Linux Mint XFCE
 Xubuntu
 
 Zorin Lite
+
+🚀 O‘rnatish (1 qadamda)
+
+Terminalda faqat quyidagini yozish kifoya:
+```bash
+bash <(curl -s https://raw.githubusercontent.com/nodir-dev/MacOS-style/main/install-macos-style.sh)
+```
+Yoki:
+```bash
+git clone https://github.com/nodir-dev/MacOS-style.git
+cd MacOS-style
+chmod +x install-macos-style.sh
+./install-macos-style.sh
+
+```
+
+
 ##Usage
 ```bash
 chmod +x install-macos-style.sh
