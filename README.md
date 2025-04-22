@@ -19,6 +19,7 @@ Minimal tizim:
 RAM: 2GB+, CPU: i3 yoki teng, HDD: 10GB bo‘sh joy
 
 Tizim: Debian oilasiga mansub XFCE distributivlar:
+Linux Mint Cinnamon
 
 MX Linux
 
@@ -28,20 +29,6 @@ Xubuntu
 
 Zorin Lite
 
-🚀 O‘rnatish (1 qadamda)
-Terminalda faqat quyidagini yozish kifoya:
-
-bash
-Copy
-Edit
-bash <(curl -s https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/install-macos-style.sh)
-Yoki:
-
-bash
-Copy
-Edit
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
 chmod +x install-macos-style.sh
 ./install-macos-style.sh
 🎨 Sozlashdan so‘ng
@@ -60,12 +47,7 @@ Reboot qilish tavsiya etiladi.
 🧠 Eslatma
 Bu skript sizga kerakli paketlarni yuklaydi va sozlaydi.
 
-O‘zgartirishlar qilishni istasangiz install-macos-style.sh faylini tahrir qilishingiz mumkin.
-
 👨‍💻 Muallif
-text
-Copy
-Edit
-Muallif: Gojo Satoru
-Telegram: https://t.me/GojoSatoru
-GitHub:  https://github.com/YOUR_GITHUB_USERNAME
+Muallif: Gojo developer
+Telegram: https://t.me/Gojo_Developer
+GitHub:  https://github.com/nodir-dev
