@@ -34,7 +34,7 @@ Zorin Lite
 
 Terminalda faqat quyidagini yozish kifoya:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/nodir-dev/MacOS-style/main/install-macos-style.sh)
+curl -s https://raw.githubusercontent.com/nodir-dev/MacOS-style/main/install-macos-style.sh
 ```
 Yoki:
 ```bash
