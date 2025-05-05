@@ -17,8 +17,9 @@ echo -e "\e[92m\n💻  Muallif: @GojoSatoru (Telegram)\n📅  Sana: $(date +%Y-%
 echo -e "\n🍎 MacOS Big Sur Style XFCE uchun o'rnatilmoqda...\n"
 
 # Kerakli paketlar
-echo "📦 Kerakli paketlar o'rnatilmoqda..."
+echo "📦 Yangilanishlar tekshirilmoqda....."
 sudo apt update
+echo "📦 Kerakli paketlar o'rnatilmoqda..."
 sudo apt install -y git wget gnome-themes-extra plank unzip fonts-noto fonts-noto-cjk fonts-noto-color-emoji
 
 mkdir -p ~/.themes ~/.icons ~/.fonts
